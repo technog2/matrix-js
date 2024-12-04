@@ -1,0 +1,12 @@
+{
+  "name": "matrix",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "a library for matrix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sagharizadeh",
+  "license": "MIT"
+}
